@@ -10,7 +10,10 @@ Yuva Intern, Logistics Data Analysis Internship.
 - `clean_logistics_data.csv`: cleaned dataset created by the pipeline.
 - `before_after.png`: freight cost box plot before and after cleaning.
 
+## Week 3: eda.py (EDA and 7 visualizations)
+
 ## How to run
 pip install numpy pandas scikit-learn matplotlib
 python analysis.py
 python pipeline.py
+
