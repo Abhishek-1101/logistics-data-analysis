@@ -10,10 +10,15 @@ Yuva Intern, Logistics Data Analysis Internship.
 - `clean_logistics_data.csv`: cleaned dataset created by the pipeline.
 - `before_after.png`: freight cost box plot before and after cleaning.
 
-## Week 3: eda.py (EDA and 7 visualizations)
+## Week 3: Advanced Data Analysis and Visualization
+- `eda.py`: exploratory data analysis and 7 visualizations (histogram, trend, box plot, heatmaps, scatter, bar chart).
+
+## Week 4: Predictive Modeling and Optimization
+- `model.py`: delivery time prediction (Linear Regression, Decision Tree, Random Forest, Gradient Boosting), cross-validation, tuning, and route optimization.
 
 ## How to run
-pip install numpy pandas scikit-learn matplotlib
+pip install numpy pandas scikit-learn matplotlib seaborn
 python analysis.py
 python pipeline.py
-
+python eda.py
+python model.py
